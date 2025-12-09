@@ -1,0 +1,6 @@
+﻿@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* helper bg */
+.body-bg { background: #f7fafc; }
